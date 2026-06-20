@@ -7,7 +7,7 @@ My name is Can and I'm a Back-end Developer based in Turkey 🇹🇷
 <p align="left">
 📍 <b>Location:</b> Istanbul, Turkey <br>
 💻 <b>Role:</b> Back-end Developer | Automation & AI-Focused <br>
-⏱️ <b>Experience:</b> 3+ years <br>
+⏱️ <b>Experience:</b> 5+ years <br>
 🧠 <b>Focus:</b> Building scalable backend systems, automation tools, and AI-assisted solutions <br>
 🚀 <b>Mindset:</b> Product-oriented, clean code, maintainable architecture <br>
 🤝 <b>Teamwork:</b> Enjoys collaboration and building efficient, scalable systems with teams <br>
